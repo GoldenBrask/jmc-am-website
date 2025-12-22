@@ -1,0 +1,429 @@
+{
+    "metadonnees_site": {
+        "titre": "Junior MIAGE Concept Aix-Marseille",
+        "description": "Junior-Entreprise de la MIAGE d'Aix-Marseille. Réalisation de sites web, applications mobiles et logiciels de gestion.",
+        "url_base": "https://jmc-aixmarseille.fr",
+        "annee_copyright": 2024
+    },
+    "association": {
+        "nom_complet": "Junior MIAGE Concept Aix-Marseille",
+        "surnom": "JMC Aix-Marseille",
+        "slogan": "L'envie d'apprendre et d'entreprendre",
+        "date_creation": "2013",
+        "adresse": {
+            "rue": "15-17 Allée Claude Forbin",
+            "batiment": "MIND/FEG",
+            "code_postal": "13627",
+            "ville": "Aix-en-Provence CEDEX",
+            "pays": "France"
+        },
+        "contact": {
+            "email_general": "contact@jmc-aixmarseille.fr",
+            "email_dpo": "dpo@jmc-aixmarseille.fr",
+            "email_si": "si@jmc-aixmarseille.fr",
+            "telephone": null
+        },
+        "identifiants": {
+            "siret": "809 213 937 00018",
+            "statut_juridique": "Association loi 1901",
+            "affiliation": "Confédération Nationale des Junior-Entreprises (CNJE)"
+        },
+        "reseaux_sociaux": {
+            "linkedin_entreprise": "https://www.linkedin.com/company/junior-miage-concept-aix-marseille/",
+            "facebook": "https://www.facebook.com/JuniorMiageConceptAixMarseille/",
+            "youtube": "https://www.youtube.com/channel/UC-JuniorMiageConceptAixMarseille",
+            "helloasso": "https://www.helloasso.com/associations/junior-miage-concept-aix-marseille"
+        }
+    },
+    "structure_navigation": {
+        "menu_principal": [
+            {
+                "label": "Services",
+                "ancre": "#services"
+            },
+            {
+                "label": "Equipe",
+                "ancre": "#equipe"
+            },
+            {
+                "label": "Méthodes",
+                "ancre": "#methodes"
+            },
+            {
+                "label": "Projets",
+                "ancre": "#projets"
+            },
+            {
+                "label": "Partenaires",
+                "ancre": "#partenaires"
+            },
+            {
+                "label": "Contact",
+                "ancre": "#contact"
+            }
+        ],
+        "pied_de_page": [
+            {
+                "label": "Mentions légales",
+                "url": "/legal"
+            },
+            {
+                "label": "Nous Contacter",
+                "url": "/contact"
+            }
+        ]
+    },
+    "contenu_pages": {
+        "accueil": {
+            "hero_header": {
+                "titre_principal": "L'envie d'apprendre et d'entreprendre",
+                "sous_titre": "Nous privilégions votre accompagnement dans la réalisation de votre projet avec notre expertise",
+                "boutons_action": [
+                    {
+                        "texte": "Demander un devis",
+                        "lien": "#contact"
+                    },
+                    {
+                        "texte": "Notre brochure",
+                        "lien": "url_vers_brochure_pdf"
+                    }
+                ]
+            },
+            "section_a_propos": {
+                "titre": "LA JUNIOR-ENTREPRISE DE LA MIAGE D'AIX-MARSEILLE !",
+                "texte_complet": "Junior MIAGE Concept Aix-Marseille est une association étudiante ayant pour vocation de valoriser à travers des projets à plus-value pédagogique les compétences des étudiants d'Aix-Marseille Université. Cette initiative rassemble des étudiants motivés, dynamiques et prêts à appliquer sur le terrain des compétences reconnues professionnellement en répondant aux besoins de clients divers (entreprises, collectivités locales, associations, créateurs d'entreprise, etc.)."
+            },
+            "section_services": [
+                {
+                    "nom": "Création de sites et d'applications Web",
+                    "description": "Fort de notre expertise, ce type de prestation est la spécialité de notre Junior. Si vous avez une idée de projet à tout niveau de complexité, n'hésitez pas à nous consulter."
+                },
+                {
+                    "nom": "Référencement & Conseil en transformation digitale",
+                    "description": "Si vous souhaitez vous positionner sur le web ou sur un marché innovant, nous saurons vous fournir les clés de votre réussite."
+                },
+                {
+                    "nom": "Développement d'applications Mobiles",
+                    "description": "Aujourd'hui les applications mobiles ne sont plus un luxe. Demandez un devis et réalisons ensemble une application qui vous correspond."
+                }
+            ],
+            "section_valeurs": [
+                "Cohésion",
+                "Ambition",
+                "Partage",
+                "Persévérance"
+            ],
+            "section_methodologie": {
+                "intro": "Junior MIAGE Concept Aix-Marseille est la solution pour la réalisation de vos sites web, logiciels de gestion et applications mobiles.",
+                "etapes": [
+                    {
+                        "etape": "1",
+                        "nom": "Expression du besoin",
+                        "detail": "Votre projet vous tient à cœur ? À nous aussi ! Nous mettons tout en œuvre pour que la solution réponde à tous vos besoins."
+                    },
+                    {
+                        "etape": "2",
+                        "nom": "Lancement du projet",
+                        "detail": "Une fois vos besoins spécifiés, nous choisissons le consultant le plus qualifié pour mettre en oeuvre la solution idéale."
+                    },
+                    {
+                        "etape": "3",
+                        "nom": "Développement",
+                        "detail": "Nos compétences en gestion de projet et en développement informatique vous garantissent un produit de qualité."
+                    },
+                    {
+                        "etape": "4",
+                        "nom": "Livraison",
+                        "detail": "Nous nous assurons de la bonne intégration du produit dans votre structure."
+                    },
+                    {
+                        "etape": "5",
+                        "nom": "Suivi",
+                        "detail": "Le suivi est garanti pendant 3 mois après validation de la livraison."
+                    }
+                ]
+            },
+            "section_chiffres_cles": {
+                "membres_actifs": "15+",
+                "chiffre_affaires": "10000",
+                "taux_satisfaction": "75%",
+                "etudes_realisees": "4+"
+            },
+            "section_partenaires": [
+                "EY",
+                "Engie",
+                "Regroupement Juniors Entreprises Méditerranéens",
+                "CNJE (Confédération Nationale des Junior-Entreprises)",
+                "Alten",
+                "BNP Paribas"
+            ],
+            "explication_cnje": {
+                "titre": "Les Junior-Entreprises",
+                "texte": "Une Junior-Entreprise est implantée dans les universités et établissements d'enseignement supérieur, elle fonctionne comme une entreprise. C'est un réel outil pédagogique pour les étudiants et un grand vecteur d'insertion professionnelle. Cela donne l'occasion de mettre en pratique des enseignements théoriques par le biais de projets professionnels pour des clients."
+            }
+        }
+    },
+    "equipe_membres": [
+        {
+            "nom": "Khawla RGUIBI",
+            "poste": "Présidente",
+            "linkedin_url_theorique": "https://www.linkedin.com/in/khawla-rguibi/",
+            "image": "/images/photo-mandat/khawla.jpg",
+            "bio": "Expertise en pilotage stratégique et gestion d'équipe. Passionnée par l'innovation et l'entrepreneuriat.",
+            "competences": [
+                "Management",
+                "Stratégie",
+                "Leadership",
+                "Gestion de Projet"
+            ],
+            "formation": "Master 2 MIAGE - Université Aix-Marseille",
+            "experience": "2 ans en tant que Chef de Projet Junior.",
+            "projets": [
+                "Pilotage de la refonte stratégique JMC",
+                "Organisation du Congrès Régional"
+            ]
+        },
+        {
+            "nom": "Ines LAHBIB FEKAIER",
+            "poste": "Secrétaire Général et RH",
+            "linkedin_url_theorique": "https://www.linkedin.com/in/ines-lahbib-fekaier/",
+            "image": "/images/photo-mandat/ines.jpeg",
+            "bio": "Garure de la cohésion d'équipe et du suivi administratif. Spécialisée en gestion des ressources humaines.",
+            "competences": [
+                "RH",
+                "Administratif",
+                "Communication Interne",
+                "Droit"
+            ],
+            "formation": "Master 1 MIAGE - Université Aix-Marseille",
+            "experience": "Stage RH chez un grand groupe bancaire.",
+            "projets": [
+                "Campagne de recrutement 2024",
+                "Mise en place d'outils de suivi RH"
+            ]
+        },
+        {
+            "nom": "Bassem ABDELHEDI",
+            "poste": "Trésorier",
+            "linkedin_url_theorique": "https://www.linkedin.com/in/bassem-abdelhedi/",
+            "image": "/images/photo-mandat/bassem.jpg",
+            "bio": "Responsable de la bonne santé financière de la structure. Rigoureux et analytique.",
+            "competences": [
+                "Comptabilité",
+                "Finance",
+                "Gestion de Budget",
+                "Excel"
+            ],
+            "formation": "Master 2 MIAGE - Université Aix-Marseille",
+            "experience": "Alternance en contrôle de gestion.",
+            "projets": [
+                "Audit financier annuel",
+                "Optimisation des processus de facturation"
+            ]
+        },
+        {
+            "nom": "Fadwa BOUHADI",
+            "poste": "Vice-Trésorière",
+            "linkedin_url_theorique": "https://www.linkedin.com/in/fadwa-bouhadi/",
+            "image": "/images/photo-mandat/Fadwa.jpg",
+            "bio": "Appui essentiel à la trésorerie et gestion des flux quotidiens.",
+            "competences": [
+                "Trésorerie",
+                "Suivi Facturation",
+                "Rigueur",
+                "Organisation"
+            ],
+            "formation": "Licence 3 MIAGE - Université Aix-Marseille",
+            "experience": "Trésorière d'une association étudiante locale.",
+            "projets": [
+                "Gestion des notes de frais",
+                "Suivi des encaissements clients"
+            ]
+        },
+        {
+            "nom": "Nour AYYAD",
+            "poste": "Responsable Business",
+            "linkedin_url_theorique": "https://www.linkedin.com/in/nour-ayyad/",
+            "image": "/images/photo-mandat/nour.jpg",
+            "bio": "Développement du portefeuille client et suivi des opportunités d'affaires.",
+            "competences": [
+                "Prospection",
+                "Négociation",
+                "CRM",
+                "Relations Clients"
+            ],
+            "formation": "Master 1 MIAGE - Université Aix-Marseille",
+            "experience": "Experience en Business Development dans une startup.",
+            "projets": [
+                "Signature de 3 partenaires majeurs",
+                "Lancement d'une nouvelle offre commerciale"
+            ]
+        },
+        {
+            "nom": "Syrine THABET",
+            "poste": "Responsable Market",
+            "linkedin_url_theorique": "https://www.linkedin.com/in/syrine-thabet/",
+            "image": "/images/photo-mandat/syrine.jpg",
+            "bio": "Créative et stratège, elle pilote l'image de marque de la Junior.",
+            "competences": [
+                "Marketing Digital",
+                "Réseaux Sociaux",
+                "Design",
+                "Communication"
+            ],
+            "formation": "Licence 3 MIAGE - Université Aix-Marseille",
+            "experience": "Community Manager freelance.",
+            "projets": [
+                "Refonte de la charte graphique",
+                "Gestion des réseaux sociaux"
+            ]
+        },
+        {
+            "nom": "Rayan BOUDIBA",
+            "poste": "Responsable Qualité",
+            "linkedin_url_theorique": "https://www.linkedin.com/in/rayan-boudiba/",
+            "image": "/images/photo-mandat/rayan.png",
+            "bio": "Garant de l'excellence opérationnelle et du respect des processus.",
+            "competences": [
+                "Audit",
+                "Processus",
+                "Normes ISO",
+                "Amélioration Continue"
+            ],
+            "formation": "Master 1 MIAGE - Université Aix-Marseille",
+            "experience": "Stage Qualité en industrie.",
+            "projets": [
+                "Préparation de l'audit CNJE",
+                "Revue des processus internes"
+            ]
+        },
+        {
+            "nom": "Brahim AHMAT",
+            "poste": "Responsable Systèmes d'information",
+            "linkedin_url_theorique": "https://www.linkedin.com/in/brahim-ahmat/",
+            "image": "/images/photo-mandat/brahim.jpg",
+            "bio": "Passionné par le développement web et l'architecture logicielle. Veille au bon fonctionnement des outils.",
+            "competences": [
+                "React",
+                "Node.js",
+                "DevOps",
+                "Cybersecurity"
+            ],
+            "formation": "Master 1 MIAGE - Université Aix-Marseille",
+            "experience": "Développeur Fullstack en alternance.",
+            "projets": [
+                "Refonte du site internet JMC",
+                "Déploiement d'un intranet collaboratif"
+            ]
+        },
+        {
+            "nom": "Lucas DUVAL",
+            "poste": "Comité d'Orientation Stratégique",
+            "linkedin_url_theorique": "https://www.linkedin.com/in/lucas-duval/",
+            "image": "/images/photo-mandat/lucas.jpg",
+            "bio": "Apporte son expertise et recul pour guider les décisions stratégiques.",
+            "competences": [
+                "Conseil",
+                "stratégie",
+                "Analyse",
+                "Mentoring"
+            ],
+            "formation": "Master 2 MIAGE - Université Aix-Marseille",
+            "experience": "Consultant Junior en cabinet.",
+            "projets": [
+                "Accompagnement du nouveau mandat",
+                "Analyse de marché"
+            ]
+        },
+        {
+            "nom": "Camelia AMAR",
+            "poste": "Comité d'Orientation Stratégique",
+            "linkedin_url_theorique": "https://www.linkedin.com/in/camelia-amar/",
+            "image": "/images/photo-mandat/AMAR.jpg",
+            "bio": "Vision long terme et conseil auprès du bureau.",
+            "competences": [
+                "Stratégie",
+                "Analyse de données",
+                "Gestion des risques"
+            ],
+            "formation": "Master 2 MIAGE - Université Aix-Marseille",
+            "experience": "Analyste fonctionnelle.",
+            "projets": [
+                "Définition des axes stratégiques 2025"
+            ]
+        },
+        {
+            "nom": "Julie DAUTHERIBES",
+            "poste": "Comité d'Orientation Stratégique",
+            "linkedin_url_theorique": "https://www.linkedin.com/in/julie-dautheribes/",
+            "image": "/images/photo-mandat/DAUTHERIBES.jpg",
+            "bio": "Garante de la continuité et de la transmission des savoirs.",
+            "competences": [
+                "Formation",
+                "Gestion de connaissances",
+                "Audit"
+            ],
+            "formation": "Master 2 MIAGE - Université Aix-Marseille",
+            "experience": "Chef de projet SI.",
+            "projets": [
+                "Optimisation du processus de passation"
+            ]
+        },
+        {
+            "nom": "Mahamat Nour MAHMOUD",
+            "poste": "Membre Business",
+            "linkedin_url_theorique": "https://www.linkedin.com/in/mahamat-nour-mahmoud/",
+            "image": "/images/photo-mandat/moh.jpg",
+            "bio": "Participe activement à la recherche de nouveaux partenariats.",
+            "competences": [
+                "Vente",
+                "Marketing",
+                "Communication"
+            ],
+            "formation": "Licence 3 MIAGE - Université Aix-Marseille",
+            "experience": "Stage commercial.",
+            "projets": [
+                "Prospection téléphonique",
+                "Organisation d'événements business"
+            ]
+        },
+        {
+            "nom": "Elisée L'AIGUILLE",
+            "poste": "Membre Business",
+            "linkedin_url_theorique": "https://www.linkedin.com/in/elisee-laiguille/",
+            "image": "/images/photo-mandat/Elisee.jpg",
+            "bio": "Dynamique et motivé pour développer l'activité commerciale.",
+            "competences": [
+                "Négociation",
+                "Suivi Client",
+                "Esprit d'équipe"
+            ],
+            "formation": "Licence 3 MIAGE - Université Aix-Marseille",
+            "experience": "Vendeur conseil.",
+            "projets": [
+                "Gestion d'un portefeuille client junior"
+            ]
+        }
+    ],
+    "mentions_legales_complet": {
+        "editeur": "Junior MIAGE Concept Aix-Marseille",
+        "adresse_editeur": "MIND/FEG - 15-17 Allée Claude Forbin, 13627 Aix-en-Provence CEDEX",
+        "responsables": {
+            "marketing_communication": "Aline BRUNEL (communication@jmc-aixmarseille.fr) - [À vérifier si toujours en poste]",
+            "systeme_information": "si@jmc-aixmarseille.fr",
+            "dpo": "dpo@jmc-aixmarseille.fr"
+        },
+        "rgpd": {
+            "finalite_traitement": "Étude des demandes commerciales via le formulaire de contact.",
+            "base_legale": "Consentement de l'utilisateur.",
+            "destinataires_donnees": [
+                "Bureau de Junior MIAGE Concept Aix-Marseille",
+                "Pôle Business",
+                "Pôle Système d'Information"
+            ],
+            "duree_conservation": "Durée du traitement + 1 an maximum.",
+            "droits_utilisateur": "Accès, rectification, effacement, limitation, portabilité, retrait du consentement."
+        },
+        "reclamation": "CNIL (Commission Nationale de l'Informatique et des Libertés)"
+    }
+}
