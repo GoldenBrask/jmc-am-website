@@ -10,6 +10,11 @@ const trackVisit = async (req, res, next) => {
             return next();
         }
 
+        // Exclude Admin actions (if Authorization header is present)
+        if (req.headers['authorization']) {
+            return next();
+        }
+
         const ip = req.headers['x-forwarded-for'] || req.socket.remoteAddress;
         const ipHash = crypto.createHash('sha256').update(ip + (process.env.JWT_SECRET || 'salt')).digest('hex');
 
