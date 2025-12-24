@@ -90,7 +90,7 @@ export default function TeamManager() {
     const handleDelete = async (id) => {
         if (!window.confirm('Êtes-vous sûr de vouloir supprimer ce membre ?')) return;
         try {
-            await api.delete(`/ team / ${id} `);
+            await api.delete(`/team/${id}`);
             setMembers(members.filter(m => m.id !== id));
             toast.success('Membre supprimé');
         } catch (error) {
@@ -142,7 +142,7 @@ export default function TeamManager() {
 
         try {
             if (currentMember) {
-                const res = await api.put(`/ team / ${currentMember.id} `, payload);
+                const res = await api.put(`/team/${currentMember.id}`, payload);
                 setMembers(members.map(m => m.id === currentMember.id ? res.data : m));
                 toast.success('Membre mis à jour');
             } else {
